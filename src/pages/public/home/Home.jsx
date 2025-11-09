@@ -112,10 +112,7 @@ function Home() {
                 <Second_Slider textPosition={true} sliderData={sliderData2} />
             </div>
 
-
-
             <Suspense fallback={<Loader />}>
-
                 <HomeSection4 />
                 <HomeLetsExplore />
                 <WhyChooseUs />
