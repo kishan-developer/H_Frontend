@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "../../../../assets/images/Home/HomeOneImageOnly/HC_1920x800.jpg";
+import Image from "../../../../assets/images/home/HomeOneImageOnly/HC_1920x800.jpg";
 function HomeOneImageOnly() {
     return (
         <div className="h-[300px] md:h-[550px] w-full boxedContainer py-4 sm:px-8 overflow-hidden">
