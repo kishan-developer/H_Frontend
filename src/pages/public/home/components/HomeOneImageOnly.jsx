@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "../../../../assets/images/Hom/HomeOneImageOnly";
+import Image from "../../../../assets/images/Hom/HomeOneImageOnly/HC_1920x1080.jpg";
 
 function HomeOneImageOnly() {
     return (
