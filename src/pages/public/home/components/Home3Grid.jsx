@@ -4,12 +4,12 @@ import { useNavigate } from "react-router-dom";
 
 import Heading from "./Heading";
 import SubHeading from "./SubHeading";
-import dhurries_rugs from "../../../../assets/images/Home/Home3Grid/dhurries-rugs.avif";
-import flatweaves_rugs from "../../../../assets/images/Home/Home3Grid/flatweaves-rugs.jpg";
-import hand_knowtted_rugs from "../../../../assets/images/Home/Home3Grid/Hand-Knowtted-rugs.jpg";
-import hand_tufted_rugs from "../../../../assets/images/Home/Home3Grid/Hand-tufted-rugs.jpg";
-import hand_woven_rugs from "../../../../assets/images/Home/Home3Grid/hand-woven-rugs.webp";
-import handloom_rugs from "../../../../assets/images/Home/Home3Grid/handloom-rugs.jpg";
+import dhurries_rugs from "../../../../assets/images/Hom/Home3Grid/dhurries-rugs.avif";
+import flatweaves_rugs from "../../../../assets/images/Hom/Home3Grid/flatweaves-rugs.jpg";
+import hand_knowtted_rugs from "../../../../assets/images/Hom/Home3Grid/Hand-Knowtted-rugs.jpg";
+import hand_tufted_rugs from "../../../../assets/images/Hom/Home3Grid/Hand-tufted-rugs.jpg";
+import hand_woven_rugs from "../../../../assets/images/Hom/Home3Grid/hand-woven-rugs.webp";
+import handloom_rugs from "../../../../assets/images/Hom/Home3Grid/handloom-rugs.jpg";
 function Home3Grid() {
 
     const navigate = useNavigate();

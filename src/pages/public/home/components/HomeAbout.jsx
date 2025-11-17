@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from '../../../../assets/images/Home/HomeAbout/HomeAbout.webp'
+import Image from '../../../../assets/images/Hom/HomeAbout/HomeAbout.webp'
 import { Link } from 'react-router-dom';
 import CompanyHistoryShowcase from '../../../../components/common/CompanyHistoryShowcase';
 function HomeAbout() {

@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import Heading from "./Heading";
 import SubHeading from "./SubHeading";
 import { motion, AnimatePresence } from "framer-motion";
-import Banner1 from "../../../../assets/images/Home/HomeOnlyTwoSlideGrid/HC_640x640_1.jpg";
-import Banner2 from "../../../../assets/images/Home/HomeOnlyTwoSlideGrid/HC_640x640_2.jpg";
+import Banner1 from "../../../../assets/images/Hom/HomeOnlyTwoSlideGrid/HC_640x640_1.jpg";
+import Banner2 from "../../../../assets/images/Hom/HomeOnlyTwoSlideGrid/HC_640x640_2.jpg";
 
 function HomeOnlyTwoSlideGrid() {
     const [slideIndex, setSlideIndex] = useState(0);

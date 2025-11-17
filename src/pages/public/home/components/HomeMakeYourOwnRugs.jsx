@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Image from '../../../../assets/images/Home/HomeMakeYourOwnRugs/CustomRugs.webp'
+import Image from '../../../../assets/images/Hom/HomeMakeYourOwnRugs/CustomRugs.webp'
 function HomeMakeYourOwnRugs() {
     return (
         <div className="container mx-auto px-4 py-5 md:py-10 max-w-7xl">
